@@ -5,6 +5,7 @@
 <img width="920" height="370" alt="image" src="https://github.com/user-attachments/assets/d55f5e4a-541a-4126-8c3a-1da7d01aba36" />
 <br>
 <hr>
+
 ### After that, type the following command:
 docker cp <file address> <name of container>:/aurasite
 
@@ -12,6 +13,7 @@ docker cp <file address> <name of container>:/aurasite
 <img width="757" height="39" alt="image" src="https://github.com/user-attachments/assets/ad19d96c-5ae1-4591-b060-5c3360f092f3" />
 <br>
 <hr>
+
 ### Now, inside the container you should see the aurasite folder:
 docker exec -it db sh<br>
 #ls /
